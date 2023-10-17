@@ -1,1 +1,8 @@
-# Analysez-des-donn-es-de-syst-mes-ducatifs
+# Analysez des données de systèmes éducatifs
+
+
+# Livrables:
+
+Un notebook comportant les analyses pré-exploratoires réalisées (non cleané, pour comprendre votre démarche).
+
+Un support de présentation pour la soutenance.
